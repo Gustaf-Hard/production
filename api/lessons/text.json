@@ -1,0 +1,50 @@
+
+
+
+
+
+{
+  "total": 8,
+  "languages": [
+    {
+      "id": "2",
+      "name": "Swedish",
+      "code": "sv"
+    },
+    {
+      "id": "3",
+      "name": "Arabic",
+      "code": "ar"
+    },
+    {
+      "id": "4",
+      "name": "Dari",
+      "code": "da"
+    },
+    {
+      "id": "5",
+      "name": "Somali",
+      "code": "so"
+    },
+    {
+      "id": "6",
+      "name": "Tigrinya",
+      "code": "ti"
+    },
+    {
+      "id": "12",
+      "name": "German",
+      "code": "de"
+    },
+    {
+      "id": "13",
+      "name": "African english",
+      "code": "en"
+    },
+    {
+      "id": "14",
+      "name": "Swahili",
+      "code": "sw"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+
+
+
+
+
+*********** Countries ***********
+
+/
+Get all added countries by admin
+
+
+/languages/
+- Get all info from all countries
+    + You get all data for everything linked t a country
+    - Loads slower
+
+/languages/?country_id=1
+Append a country id
+- Get full info for specific country
+    + Loads faster
+    - A not all country data
+
+
+
+/add_new
