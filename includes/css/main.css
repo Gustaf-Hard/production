@@ -1,0 +1,47 @@
+
+
+
+
+.lesson_item p {
+    margin: 0px;
+}
+
+
+.lesson_item {
+    padding: 5px;
+}
+
+.lesson_item small {
+    color: #999999;
+}
+
+
+.lesson_list_container  {
+    border-right-style: solid;
+    border-right-width: thin;
+    border-color: #DDDDDD;
+    padding-right: 5px;
+    margin-top: 10px;
+}
+
+.lesson_list_container h3 {
+    margin-top: 5px;
+}
+
+.container {
+    margin-top: 0px;
+}
+
+.page-title {
+    margin-left: 15px;
+    width: 155px;
+    color: white;
+    padding: 5px;
+    margin-bottom: 20px
+    margin-top: 0px
+}
+
+
+.disableClick{
+    pointer-events: none;
+}
